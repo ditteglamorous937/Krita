@@ -211,4 +211,4 @@ Krita is available as a full free version with all features and updates included
 Start your creative journey today. **Download Krita now and unleash your artistic potential!**
 
 ---
-**Last updated:** 2026-09-22 22:43:07 UTC
+**Last updated:** 2026-09-23 01:13:22 UTC
